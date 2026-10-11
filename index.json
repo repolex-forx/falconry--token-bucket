@@ -1,0 +1,11 @@
+{
+  "org": "falconry",
+  "repo": "token-bucket",
+  "versions": [
+    {
+      "commit": "75bc464c275f53488a2e5d5029a75e0eaa679113",
+      "tag": "0.4.0",
+      "parsed_at": "2026-10-11T23:47:42.228742+00:00"
+    }
+  ]
+}
