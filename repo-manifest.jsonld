@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/falconry/token-bucket/commit/75bc464c275f53488a2e5d5029a75e0eaa679113",
       "git:hexsha": "75bc464c275f53488a2e5d5029a75e0eaa679113",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.4.0",
+      "repolex:parsedAt": "2026-10-11T23:47:42.213015+00:00"
     },
     {
       "@id": "https://repolex.ai/r/falconry/token-bucket/commit/de4d4b1effac63335fe87316dd42bc0fe1cc98b5",
