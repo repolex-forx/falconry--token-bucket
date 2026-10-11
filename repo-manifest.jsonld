@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/falconry/token-bucket/commit/75bc464c275f53488a2e5d5029a75e0eaa679113",
       "git:hexsha": "75bc464c275f53488a2e5d5029a75e0eaa679113",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.0"
     },
     {
